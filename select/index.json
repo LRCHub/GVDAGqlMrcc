@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Take a picture",
+  "base_artist": "NiziU",
+  "createdAt": "2025-12-13T12:15:53.477927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take A Picture",
+      "artist": "Mya",
+      "has_synced": true,
+      "path": "select/01_Take_A_Picture_Mya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take A Picture",
+      "artist": "Filter",
+      "has_synced": true,
+      "path": "select/02_Take_A_Picture_Filter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take A Picture",
+      "artist": "Filter",
+      "has_synced": true,
+      "path": "select/03_Take_A_Picture_Filter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take A Picture [Radio Edit] (2009 Remastered Version)",
+      "artist": "Filter feat. Ben Grosse",
+      "has_synced": false,
+      "path": "select/04_Take_A_Picture_[Radio_Edit]_(2009_Remastered_Version)_Filter_feat._Ben_Grosse.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take a Picture (radio edit)",
+      "artist": "Filter",
+      "has_synced": false,
+      "path": "select/05_Take_a_Picture_(radio_edit)_Filter.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take a Picture",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/06_Take_a_Picture_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take A Picture",
+      "artist": "COIN",
+      "has_synced": true,
+      "path": "select/07_Take_A_Picture_COIN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take a Picture",
+      "artist": "Filter",
+      "has_synced": true,
+      "path": "select/08_Take_a_Picture_Filter.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take a Picture (Hybrid Remix)",
+      "artist": "Filter",
+      "has_synced": false,
+      "path": "select/09_Take_a_Picture_(Hybrid_Remix)_Filter.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "04 Take A Picture",
+      "artist": "COIN",
+      "has_synced": true,
+      "path": "select/10_04_Take_A_Picture_COIN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take A Picture",
+      "artist": "Mýa",
+      "has_synced": true,
+      "path": "select/11_Take_A_Picture_Mýa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take A Picture",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/12_Take_A_Picture_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take a Picture",
+      "artist": "Filter",
+      "has_synced": true,
+      "path": "select/13_Take_a_Picture_Filter.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take a picture",
+      "artist": "NiziU",
+      "has_synced": true,
+      "path": "select/14_Take_a_picture_NiziU.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take a picture (English version)",
+      "artist": "NiziU",
+      "has_synced": true,
+      "path": "select/15_Take_a_picture_(English_version)_NiziU.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take a picture -English ver.-",
+      "artist": "NiziU",
+      "has_synced": true,
+      "path": "select/16_Take_a_picture_-English_ver.-_NiziU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take a picture",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_Take_a_picture_NiziU.txt"
+    }
+  ]
+}
